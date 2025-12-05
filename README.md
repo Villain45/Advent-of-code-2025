@@ -11,10 +11,6 @@ This repo is my way of practicing problem-solving, exploring new patterns, and h
 - All solutions are implemented using **C++ (C++17 or newer)**.  
 - Each day's solution is placed in a separate file (e.g., `Day1_Part1.cpp`).  
 - Code style leans toward clarity first, performance second.  
-- Solutions may include:
-  - mathematical optimizations  
-  - modular arithmetic tricks  
-  - cleaner abstractions where helpful
 
 ---
 
